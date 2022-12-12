@@ -1,0 +1,36 @@
+h3 {
+    color: #a20e04;
+    padding-top: 16px;
+}
+
+img {
+    border-radius: 5px;
+}
+
+p {
+    font-size: 22px;
+    font-family: "Roboto", sans-serif;
+}
+
+.container {
+    width: 300px;
+    border: 1px solid #101018;
+    padding: 50px;
+    margin: 20px;
+    background: radial-gradient(circle at 10% 20%,
+            rgb(248, 219, 219) 0%,
+            rgb(229, 248, 250) 90%);
+}
+
+.logo {
+    height: 150px;
+    margin-bottom: 30px !important;
+    width: 150;
+    margin: 0 auto;
+    display: block;
+    border-radius: 60px;
+}
+
+footer {
+    margin-left: 20px;
+}
